@@ -28,10 +28,10 @@ _Files_:
 
 ### History
 
-This template is an adapted LaTeX thesis template of the old TU Delft Embedded Systems Group (see example [here](https://repository.tudelft.nl/islandora/object/uuid%3A6d5a3afd-1966-4357-b063-7a82c0fdb0ab)). That template was again adapted from the MSc thesi template of the [Parallel (and then Distributed) Systems group](https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/software-technology/distributed-systems/) at TU Delft.
+The logo was created by Casper Dennis van Wezel and originally hosted (here)[https://github.com/12casper3/ENS-Logo/]. This repository is its cleaned and revised copy.
 
 ### Copyright
 
-Copyright (C) 2019 TU Delft Embedded and Networked Systems Group.
+Copyright (C) 2019 TU Delft Embedded and Networked Systems Group and and Casper Dennis van Wezel.
 
 MIT Licence. See [License](https://github.com/TUDSSL/TUD_ENS_MSc_Thesis_Template/blob/master/LICENSE) file for details.
