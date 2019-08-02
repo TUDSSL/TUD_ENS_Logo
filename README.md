@@ -1,6 +1,8 @@
 # TU Delft ENS Group Logo Template
 
-This is a official repository for [TU Delft Embedded Networked Systems Group](http://www.ens.ewi.tudelft.nl) logo.
+This is a official repository for [TU Delft Embedded Networked Systems Group](http://www.ens.ewi.tudelft.nl) logo, which you can see below.
+
+![TU Delft ENS Logo](tud-ens-logo-color/tud-ens-logo-color-720p.png)
 
 ### How to use this template
 
