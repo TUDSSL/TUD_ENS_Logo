@@ -25,6 +25,8 @@ _Folders_:
 _Files_:
 
 - `compile-all-tud-ens-logo.sh`: scrip to generate all logos automatically from a TikZ definition of a logo
+- `README.md`: this file
+- `LICENCE`: license file
 
 ### History
 
