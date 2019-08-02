@@ -28,7 +28,7 @@ _Files_:
 
 ### History
 
-The logo was created by Casper Dennis van Wezel and originally hosted (here)[https://github.com/12casper3/ENS-Logo/]. This repository is its cleaned and revised copy.
+The logo was created by Casper Dennis van Wezel and originally hosted [here](https://github.com/12casper3/ENS-Logo/). This repository is its cleaned and revised copy.
 
 ### Copyright
 
