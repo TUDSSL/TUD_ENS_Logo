@@ -1,6 +1,6 @@
-# TU Delft ENS Group MSc Thesis Template
+# TU Delft ENS Group Logo Template
 
-This is a official repository for [TU Delft Embedded Networked Systems Group](http://www.ens.ewi.tudelft.nl) MSc Thesis Template.
+This is a official repository for [TU Delft Embedded Networked Systems Group](http://www.ens.ewi.tudelft.nl) logo.
 
 ### How to use this template
 
