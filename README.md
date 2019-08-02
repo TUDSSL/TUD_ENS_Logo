@@ -12,7 +12,7 @@ Assuming you have LaTeX and [ImageMagick](https://imagemagick.org/) installed an
 
 This will compile the whole set of logos hosted in the respective repositories.
 
-### Structure of this folder
+### Structure of this repository
 
 _Folders_:
 
