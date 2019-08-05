@@ -32,7 +32,7 @@ _Files_:
 
 ### History
 
-The logo was created by [Casper Dennis van Wezel](https://github.com/12casper3/). This repository is its cleaned and revised copy of its original repository.
+The logo was created by [Casper Dennis van Wezel](https://github.com/12casper3/). This repository is its cleaned and revised copy of his original logo repository.
 
 ### Copyright
 
