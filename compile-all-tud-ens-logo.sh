@@ -4,7 +4,7 @@
 
 # MIT License
 #
-# Copyright (c) 2019 TU Delft Embedded and Networked Systems Group and Casper Dennis van Wezel.
+# Copyright (c) 2019 TU Delft Embedded and Networked Systems Group and Casper van Wezel.
 #
 # Permission is hereby granted, free of charge, to any person obtaining a copy
 # of this software and associated documentation files (the "Software"), to deal
