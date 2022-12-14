@@ -18,10 +18,10 @@ This will compile the whole set of logos hosted in the respective repositories.
 
 _Folders_:
 
-- `tud-es-logo-black`: Black and white version of the logo (in PDF, PS and PNG {in three sizes of 16:9 ratio})
-- `tud-es-logo-black-notext`: Black and white version of the logo, without "Embedded Systems" text (in PDF, PS and PNG {in three sizes of 16:9 ratio})
+- `tud-es-logo-black`: Black and white version of the logo (in PDF, PS and PNG {in three sizes})
+- `tud-es-logo-black-notext`: Black and white version of the logo, without "Embedded Systems" text (in PDF, PS and PNG {in three sizes})
 - `tud-es-logo-color`: Color version of the logo (in PDF, PS, PNG {in three sizes of 16:9 ratio} and animated GIF)
-- `tud-es-logo-color-notext`: Color version of the logo, without "Embedded Systems" text (in PDF, PS, PNG {in three sizes of 16:9 ratio} and animated GIF)
+- `tud-es-logo-color-notext`: Color version of the logo, without "Embedded Systems" text (in PDF, PS, PNG {in three sizes} and animated GIF)
 - `tud-es-logo-tikz`: source files of TU Delft ENS logo defined in TikZ
 
 _Files_:
@@ -32,10 +32,11 @@ _Files_:
 
 ### History
 
-The logo was created by [Casper Dennis van Wezel](https://github.com/12casper3/). This repository is its cleaned and revised copy of his original logo repository.
+* _14 December 2022_: The logo is updated reflecting the new group name, i.e. Embedded Systems Group. 
+* _1 August 2019_: The logo was created by [Casper Dennis van Wezel](https://github.com/12casper3/). This repository is its cleaned and revised copy of his original logo repository.
 
 ### Copyright
 
 Copyright (C) 2022 TU Delft Embedded Systems Group and Casper van Wezel.
 
-MIT Licence. See [License](https://github.com/TUDSSL/TUD_ENS_MSc_Thesis_Template/blob/master/LICENSE) file for details.
+MIT Licence. See [License](https://github.com/TUDSSL/TUD_ENS_Logo/blob/master/LICENSE) file for details.
