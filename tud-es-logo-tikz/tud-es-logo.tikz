@@ -37,6 +37,7 @@
     \colorlet{mycolorwifi1}{black}
     \colorlet{mycolorwifi2}{black}
     \colorlet{mycolorwifi3}{black}
+    \colorlet{mycolorchip}{black}
 \or
 % case: 1
     \colorlet{mycolorwifi1}{TUcyan}
@@ -76,16 +77,16 @@
     wifi1/.style={draw, line width=2mm,mycolorwifi1},
     wifi2/.style={draw, line width=2mm,mycolorwifi2},
     wifi3/.style={draw, line width=2mm,mycolorwifi3},
-    % name_label/.style={align=left,font=\sffamily\selectfont \bfseries \Huge,text width=5.5cm,text=mycolortext},
-    name_label/.style={align=left,font=\fontfamily{phv}\selectfont \bfseries \Huge,text width=5.5cm,text=mycolortext},
+    % name_label/.style={align=left,font=\sffamily\selectfont \bfseries \Huge,text width=4.5cm,text=mycolortext, fill=white},
+    name_label/.style={align=left,font=\fontfamily{phv}\selectfont \bfseries \Huge,text width=4.5cm,text=mycolortext, fill=white},
     ]
 
     \ifdefined\notextlogo
         % do not draw text
     \else
         % draw text
-        \node[name_label] (e) at (4.3,0.5) {Embedded};
-        \node[name_label] (s) at (4.3,-0.5) {Systems};
+        \node[name_label] (e) at (4.0,0.5) {Embedded};
+        \node[name_label] (s) at (4.0,-0.5) {Systems};
     \fi
 
     \fill[chip, rounded corners] (-\c,-\c) rectangle (\c,\c);
