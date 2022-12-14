@@ -4,7 +4,7 @@
 
 # MIT License
 #
-# Copyright (c) 2019 TU Delft Embedded Systems Group and Casper van Wezel.
+# Copyright (c) 2022 TU Delft Embedded Systems Group and Casper van Wezel.
 #
 # Permission is hereby granted, free of charge, to any person obtaining a copy
 # of this software and associated documentation files (the "Software"), to deal
@@ -24,7 +24,7 @@
 # OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 # SOFTWARE.
 
-# This scrip generates versions of TU Delft Embedded  and Systems Group Logo
+# This scrip generates versions of TU Delft Embedded Systems Group Logo
 # Created by Casper Dennis van Wezel and revised by Przemyslaw Pawelczak
 
 # Order of exporting different logo versions:
